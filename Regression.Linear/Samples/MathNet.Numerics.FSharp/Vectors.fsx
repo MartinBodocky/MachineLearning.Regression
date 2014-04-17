@@ -69,7 +69,7 @@ let h = vector (List.init 100 (fun i -> float i ** 2.0))
 let z = a1 + a2
 z
 // ... or scale them in the process.
-d1
+d1 * 2.0
 (d1 + 3.0) / 2.0
 let x = d2 + 3.0 * e - g2
 x

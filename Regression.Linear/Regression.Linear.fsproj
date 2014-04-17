@@ -68,6 +68,7 @@
     <None Include="Samples\MathNet.Numerics.FSharp\Apply.fsx" />
     <None Include="MathNet.Numerics.MKL.dll" />
     <None Include="libiomp5md.dll" />
+    <Content Include="abalone.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MathNet.Numerics">
